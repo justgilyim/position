@@ -1,0 +1,3 @@
+# .gitignore standard file for ICS Software Engieering, Fall 2015
+*.iml
+.idea/
